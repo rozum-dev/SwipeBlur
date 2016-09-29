@@ -2,7 +2,7 @@
 
 Curtain animation transition for UIViewController presenting in Swift
 
-![Screenshot of Swipe to blur](https://github.com/rozum-dev/SwipeBlure/blob/master/out.gif "Swipe to blur Screenshot")
+![Screenshot of Swipe to blur](https://github.com/rozum-dev/SwipeBlur/blob/master/out.gif "Swipe to blur Screenshot")
 
 ##Demo
 Creates an interactive blur effect. Inspired by http://five.agency/how-to-create-an-interactive-blur-effect-in-ios8/ project.
